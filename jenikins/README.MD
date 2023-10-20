@@ -21,3 +21,7 @@ chown -R root:root /var/log/jenkins
 chown -R root:root /usr/bin/jenkins
 chown -R root:root /usr/share/jenkins
 ```
+
+```sh
+systemctl jenkins restart
+```
