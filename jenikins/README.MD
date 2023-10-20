@@ -23,5 +23,5 @@ chown -R root:root /usr/share/jenkins
 ```
 
 ```sh
-systemctl jenkins restart
+systemctl restart jenkins
 ```
